@@ -1,6 +1,6 @@
 # test-admin
 
-- react-admin 사용해보기
+react-admin 사용해보기
 
 ## DataProvider
 
